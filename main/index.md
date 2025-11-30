@@ -1,4 +1,6 @@
 
 # Ariel Spectroscopic Data & Databases Working Group
 
-Welcome! This site is under construction.
+Coordinating spectroscopic data for the ESA Ariel mission and the wider exoplanet community.
+
+
