@@ -37,15 +37,55 @@ The WG brings together experts in:
 - Atmospheric modelling and retrievals
 - Data curation and database development
 
-A list of WG members, their affiliations, expertise, and contact areas:
+A list of WG members, their affiliations, expertise, and contacts  organised by their expert fields 
 
+## Coordinators
 - **[Katy Chubb, Bristol (coordinator)](chubb.md)**
-- **[Severine Robert, BIRA-IASB (coordinator)](robert.md)**
-- **[Clara Sousa Silva, Bard (coordinator)](silva.md)**
+- **Severine Robert, BIRA-IASB**
+- **Clara Sousa Silva, Bard **
 - **[Sergey Yurchenko, UCL (coordinator)](yurchenko.md)**
-- **[Aleksandra Foltynowicz Matyba, UMU](foltynowicz.md)**
-- **[Cyril Richard, CNRS](richard.md)**
+
+## Molecular and atomic data
 - **[Vincent Boudon, CNRS](boudon.md)**
+- **Aleksandra Foltynowicz Matyba, UMU**
+- **Isabelle Kleiner, LISA CNRS**
+- **Michaël Rey, Université de Reims Champagne-Ardenne**
+- **[Cyril Richard, CNRS](richard.md)**
+- **Ibrahim Sadiek, Leibniz Institute for Plasma Science and Technology**
+- **Stefania Stefani, IAPS-INAF**
+- **Jonathan Tennyson, UCL**
+- **Karan Molaverdikhani, Ludwig-Maximilians-Universität München**
+
+## Molecular and atomic broadening data
+- **Nicole F. Allard, Observatoire de Paris,**
+- **Jeanna Buldyreva, Université Bourgogne Franche-Comté**
+- **Andrei Sokolov, UCL**
+
+## Collision induced absorption and continuum data 
+- **Tijs Karman, Radboud University**
+
+## Atmospheric Chemistry 
+- **Olivia Venot, Université Paris Cité and Univ Paris Est Creteil**
+
+## UV Photodissociation / photoabsorption data
+- **Helgi Rafn Hrodmarsson, CNRS**
+
+## Databases and data standards 
+- **Iouli E. Gordon, HITRAN, CfA**
+- **Robert J. Hargreaves, HITRAN, CfA**
+- **Christian Hill, International Atomic Energy Agency**
+
+## Sinergy with the user community of retrievals, atmospheric modeling and radiative transfer
+- **Benjamin Bultel, Université Paris-Saclay**
+- **Athena Coustenis, LESIA, Paris Observatory**
+- **Christiane Helling, Space Research Institute**
+- **Helena Lecoq-Molinos, TU Graz**
+- **Alessandra Miglio, IAPS-INAF**
+- **Joanna K. Barstow, The Open University**
+- **Patrick Gerard Joseph Irwin, University of Oxford**
+- **David A. Lewis, Space Research Institute**
+- **Giovanna Rinaldi, IAPS-INAF**
+- **Tim A. van Kempen, SRON Netherlands Institute for Space Research**
 
 ---
 
